@@ -6,5 +6,5 @@ logging:
           samples: INFO
 
 fortune:
-  fallbackFortune: Your latest future is not really clear at all.....
+  fallbackFortune: Your latest future is not really clear at all.....this is a failback fortune
 
