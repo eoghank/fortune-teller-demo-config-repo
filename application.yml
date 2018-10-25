@@ -6,5 +6,5 @@ logging:
           samples: INFO
 
 fortune:
-  fallbackFortune: Fortune service is not running - cannot service fortunes at this time
+  fallbackFortune: Fortune service is not running - lack of service
 
